@@ -1,0 +1,53 @@
+.h{
+font-size: 23px;
+width:100%;
+margin: 0px;
+}
+
+.note{
+    font-size: 15px;
+    color: black;
+}
+
+.cd{
+    float:left;
+}
+
+.bcc{
+    float:right;
+}
+
+.bd{
+    width:200px;
+    border-radius: 100px;
+}
+
+
+body{
+    background-size: cover;
+}
+
+#ad,#bc{
+    font-size: 23px;
+    margin: 15px;
+}
+.play1{
+    width:130px;
+    font-size: 25px;
+}
+
+canvas{
+    border:5px solid white;
+border-radius:20px;
+}
+
+#developername{
+    background-color: aqua;
+    position:fixed;
+    bottom:0;
+    width:100%;
+    text-align: center;
+    line-height: 3;
+    font-size: 15px;
+    color:purple;
+}
